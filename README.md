@@ -78,3 +78,6 @@ If you like to submit a PR with a fix, reference the issue you created.
 
 ## Like this project?
 If you like this project, you can give it a star. 
+
+
+PS still working for the JWT authentication
