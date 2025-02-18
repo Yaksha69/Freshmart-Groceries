@@ -3,7 +3,7 @@
 ## A simple implementation of Service Oriented Architecture (SOA) using nodejs
 
 FreshMart is a fictitious grocery store for which this project provides an Integrated Enterprise System. The system includes the following key services:
-* ### Employee
+* ### Employee Management
   Handles the Employee data.
 * ### Point of Sale (POS)
   Handles transactions and customer purchases.
