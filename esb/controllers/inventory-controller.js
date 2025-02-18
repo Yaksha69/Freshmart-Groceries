@@ -12,7 +12,7 @@ const addProduct = async(req, res) =>{
 const fetchProducts = async(req, res) =>{
     try{
         const response = await axios.get(`${process.env.INVENTORY_SERVICE}/`)
-        res.status(201).json(response.data)
+        res.status(200).json(response.data)
     }catch(error){
         res.status(500).json({success: false, message: error.message})
     }
